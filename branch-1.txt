@@ -1,2 +1,6 @@
+
 Testowanie branch-1, testowanie konfliktu scalenia odgalezien
 Dodanie nowych zmian przy testowaniu
+Uzupelnie pliku
+Testowanie branch-1
+
