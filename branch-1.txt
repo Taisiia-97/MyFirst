@@ -1,1 +1,2 @@
-Testowanie branch-1
+Testowanie branch-1, testowanie konfliktu scalenia odgalezien
+Dodanie nowych zmian przy testowaniu
